@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8449d501-76a1-4f82-83fb-591d0d8ae8be" name="Changes" comment="Added multiple leiden res plots with varying resolutions">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cluster_exhitatory_neurons.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cluster_exhitatory_neurons.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="8449d501-76a1-4f82-83fb-591d0d8ae8be" name="Changes" comment="Added differential gene expression plots" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754966099302</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added differential gene expression plots">
+      <option name="closed" value="true" />
+      <created>1755199788442</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1755199788443</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,6 +134,7 @@
     <MESSAGE value="added some further exploration into the metadata" />
     <MESSAGE value="added code to cluster the excitatory neurons based on leiden clustering (still dont fully know what that means but it is a suggested approach for this task)" />
     <MESSAGE value="Added multiple leiden res plots with varying resolutions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added multiple leiden res plots with varying resolutions" />
+    <MESSAGE value="Added differential gene expression plots" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added differential gene expression plots" />
   </component>
 </project>
