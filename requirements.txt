@@ -3,3 +3,5 @@ tqdm
 scanpy
 igraph
 leidenalg
+pertpy
+rpy2
