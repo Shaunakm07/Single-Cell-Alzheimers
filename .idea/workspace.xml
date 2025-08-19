@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8449d501-76a1-4f82-83fb-591d0d8ae8be" name="Changes" comment="clustered populations successfully!">
-      <change afterPath="$PROJECT_DIR$/inspect_subpopulations.ipynb" afterDir="false" />
+    <list default="true" id="8449d501-76a1-4f82-83fb-591d0d8ae8be" name="Changes" comment="Added code to save each single cell file per subpopulation as a separate file">
       <change beforePath="$PROJECT_DIR$/cluster_milo_exhitatory_neurons.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cluster_milo_exhitatory_neurons.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inspect_subpopulations.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/inspect_subpopulations.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1754776262231</updated>
-      <workItem from="1755269750203" duration="65743000" />
+      <workItem from="1755269750203" duration="71578000" />
     </task>
     <task id="LOCAL-00001" summary="initial files">
       <option name="closed" value="true" />
@@ -153,7 +153,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755512218181</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Added code to save each single cell file per subpopulation as a separate file">
+      <option name="closed" value="true" />
+      <created>1755559582922</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1755559582922</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,6 +190,7 @@
     <MESSAGE value="Corrected Dotplot to make more readable" />
     <MESSAGE value="Added clustering code with optimum predicted overlap!" />
     <MESSAGE value="clustered populations successfully!" />
-    <option name="LAST_COMMIT_MESSAGE" value="clustered populations successfully!" />
+    <MESSAGE value="Added code to save each single cell file per subpopulation as a separate file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added code to save each single cell file per subpopulation as a separate file" />
   </component>
 </project>
