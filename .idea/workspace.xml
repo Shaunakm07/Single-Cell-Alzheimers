@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8449d501-76a1-4f82-83fb-591d0d8ae8be" name="Changes" comment="Added code to save each single cell file per subpopulation as a separate file">
+    <list default="true" id="8449d501-76a1-4f82-83fb-591d0d8ae8be" name="Changes" comment="looked at correlations between clusters and noticed an outlier!">
+      <change afterPath="$PROJECT_DIR$/clustering_workflow.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inspect_significant_population.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_embeddings.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cluster_milo_exhitatory_neurons.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cluster_milo_exhitatory_neurons.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/correlation_heatmap.png" beforeDir="false" afterPath="$PROJECT_DIR$/correlation_heatmap.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/inspect_subpopulations.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/inspect_subpopulations.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,22 +49,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/shaunak/PycharmProjects/Single_Cell_Alzheimers",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/shaunak/PycharmProjects/Single_Cell_Alzheimers&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -79,7 +85,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1754776262231</updated>
-      <workItem from="1755269750203" duration="71578000" />
+      <workItem from="1755269750203" duration="88459000" />
+      <workItem from="1755650985498" duration="1567000" />
     </task>
     <task id="LOCAL-00001" summary="initial files">
       <option name="closed" value="true" />
@@ -161,7 +168,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755559582922</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="looked at correlations between clusters and noticed an outlier!">
+      <option name="closed" value="true" />
+      <created>1755570176536</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1755570176536</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +206,7 @@
     <MESSAGE value="Added clustering code with optimum predicted overlap!" />
     <MESSAGE value="clustered populations successfully!" />
     <MESSAGE value="Added code to save each single cell file per subpopulation as a separate file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added code to save each single cell file per subpopulation as a separate file" />
+    <MESSAGE value="looked at correlations between clusters and noticed an outlier!" />
+    <option name="LAST_COMMIT_MESSAGE" value="looked at correlations between clusters and noticed an outlier!" />
   </component>
 </project>
