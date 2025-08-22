@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8449d501-76a1-4f82-83fb-591d0d8ae8be" name="Changes" comment="re-running workflow looking more on the integration multiple donor batches">
-      <change afterPath="$PROJECT_DIR$/inspect_significant_population_copy.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inspect_subpopulations_copy.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inspect_significant_population_pseudobulk.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clustering_workflow.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/clustering_workflow.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/correlation_heatmap.png" beforeDir="false" afterPath="$PROJECT_DIR$/correlation_heatmap.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/download_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/download_data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inspect_significant_population_copy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/inspect_significant_population_copy.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
