@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8449d501-76a1-4f82-83fb-591d0d8ae8be" name="Changes" comment="re-running workflow looking more on the integration multiple donor batches">
-      <change afterPath="$PROJECT_DIR$/inspect_significant_population_pseudobulk.ipynb" afterDir="false" />
+    <list default="true" id="8449d501-76a1-4f82-83fb-591d0d8ae8be" name="Changes" comment="Added bad pathway enrichment analysis code - Genes were over represented due to multiple donors">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inspect_significant_population_copy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/inspect_significant_population_copy.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inspect_significant_population_pseudobulk.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/inspect_significant_population_pseudobulk.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +179,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755652581126</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Added bad pathway enrichment analysis code - Genes were over represented due to multiple donors">
+      <option name="closed" value="true" />
+      <created>1755823967743</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1755823967743</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,6 +219,7 @@
     <MESSAGE value="Added code to save each single cell file per subpopulation as a separate file" />
     <MESSAGE value="looked at correlations between clusters and noticed an outlier!" />
     <MESSAGE value="re-running workflow looking more on the integration multiple donor batches" />
-    <option name="LAST_COMMIT_MESSAGE" value="re-running workflow looking more on the integration multiple donor batches" />
+    <MESSAGE value="Added bad pathway enrichment analysis code - Genes were over represented due to multiple donors" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added bad pathway enrichment analysis code - Genes were over represented due to multiple donors" />
   </component>
 </project>
