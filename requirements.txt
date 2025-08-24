@@ -6,3 +6,4 @@ leidenalg
 pertpy
 rpy2
 gseapy
+plotly
