@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8449d501-76a1-4f82-83fb-591d0d8ae8be" name="Changes" comment="Added pseudotime code">
+    <list default="true" id="8449d501-76a1-4f82-83fb-591d0d8ae8be" name="Changes" comment="added RNA velocity code">
+      <change afterPath="$PROJECT_DIR$/RNA_velocity.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/train_classifier.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/train_classifier.ipynb" afterDir="false" />
     </list>
@@ -230,7 +231,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756556790062</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="added RNA velocity code">
+      <option name="closed" value="true" />
+      <created>1756674696081</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1756674696081</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,6 +277,7 @@
     <MESSAGE value="Noticed exploding gradients in the model... ***BIG PROBLEM***" />
     <MESSAGE value="Rewrote normalising flows code" />
     <MESSAGE value="Added pseudotime code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added pseudotime code" />
+    <MESSAGE value="added RNA velocity code" />
+    <option name="LAST_COMMIT_MESSAGE" value="added RNA velocity code" />
   </component>
 </project>
